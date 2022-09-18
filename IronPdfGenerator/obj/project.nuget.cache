@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvsG1CYclU5+0qnNtPS//9w1q+vTSVFwAm9aSFgjcmOGS95d3OLNrJ+IW0aN0BtZRCj+6ol+O/oaf/P9Di1KNg==",
+  "success": true,
+  "projectFilePath": "D:\\PDFtemplates\\Integration\\IntergationPDFTest\\IronPdfGenerator\\IronPdfGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\ironpdf\\2022.8.8138\\ironpdf.2022.8.8138.nupkg.sha512",
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\ironpdf.native.chrome.windows\\2022.8.8130\\ironpdf.native.chrome.windows.2022.8.8130.nupkg.sha512",
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\ironpdf.slim\\2022.8.8138\\ironpdf.slim.2022.8.8138.nupkg.sha512",
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\tayyab.mushtaq\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

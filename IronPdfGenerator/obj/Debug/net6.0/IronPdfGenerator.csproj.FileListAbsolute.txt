@@ -1,0 +1,15 @@
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\bin\Debug\net6.0\IronPdfGenerator.deps.json
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\bin\Debug\net6.0\IronPdfGenerator.dll
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\bin\Debug\net6.0\IronPdfGenerator.pdb
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\bin\Debug\net6.0\Models.dll
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\bin\Debug\net6.0\Models.pdb
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.csproj.AssemblyReference.cache
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.AssemblyInfoInputs.cache
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.AssemblyInfo.cs
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.csproj.CoreCompileInputs.cache
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.csproj.CopyComplete
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.dll
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\refint\IronPdfGenerator.dll
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\IronPdfGenerator.pdb
+D:\PDFtemplates\Integration\IntergationPDFTest\IronPdfGenerator\obj\Debug\net6.0\ref\IronPdfGenerator.dll
